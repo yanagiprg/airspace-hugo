@@ -1,4 +1,4 @@
-baseURL = "http://tech-blog.netlify.com"
+baseURL = "http://raw-tech-blog.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
